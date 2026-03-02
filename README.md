@@ -1,0 +1,2 @@
+# WdSM
+Zadania  z laboratoriów
